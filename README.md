@@ -28,7 +28,7 @@ I'm a 15-year-old self-taught web developer from Pakistan 🇵🇰, learning fro
 - [Rock Paper Scissors Game](https://github.com/developerirtiza/rock-paper-scissors-game)  
   Classic game with local storage & keyboard shortcuts.
 
-- [Weather App]([https://github.com/your-link-here](https://github.com/developerirtiza/weather-app/tree/master))  
+- [Weather App](https://github.com/developerirtiza/weather-app/tree/master) 
   Shows live weather using API calls.
 
 ---
