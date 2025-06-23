@@ -31,14 +31,11 @@ I'm a 15-year-old self-taught web developer from Pakistan 🇵🇰, learning fro
 - [Weather App](https://github.com/developerirtiza/weather-app/tree/master)  
   Shows live weather using API calls.
 
-- [Expense Trakcer](https://github.com/developerirtiza/expense-tracker)  
-  Lets people track of their expenses
-
 ---
 
 ## 📫 Contact
 
-You can reach out via [GitHub](https://github.com/developerirtiza) or [Instagram DMs](https://instagram.com/developerirtiza). I'm open to freelance, internship, or junior remote opportunities.
+You can reach out via [GitHub](https://github.com/developerirtiza), [Instagram DMs](https://instagram.com/developerirtiza) or [LinkedIn](https://www.linkedin.com/in/syed-irtiza-660293371/). I'm open to freelance, internship, or junior remote opportunities.
 
 ---
 
